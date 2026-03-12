@@ -34,3 +34,4 @@ for (let i=1; i<10; i++){
     sum +=i;
 }
 console.log(sum);
+console.log("Second JS file branch update");
