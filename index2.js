@@ -35,3 +35,22 @@ for (let i=1; i<10; i++){
 }
 console.log(sum);
 console.log("Second JS file branch update");
+for (let i =1; i<10; i++){
+    console.log('suriya');
+}
+
+for (let i=1; i<10; i++){
+    console.log(i);
+}
+
+for (let i = 10; i>0; i--){
+    console.log(i);
+
+}
+function name() {
+   if (n>0) {
+      return;
+   }
+
+   name(10); // function calls itself
+}
